@@ -40,7 +40,6 @@ with open(‘/content/.kaggle/kaggle.json’, ‘w’) as file:
 !kaggle competitions download -c home-credit-default-risk -p /content
 
 ```
-
 **To unzip the files run the following command**
 ```
 !unzip \*.zip
